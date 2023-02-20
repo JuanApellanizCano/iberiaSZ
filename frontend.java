@@ -1,2 +1,5 @@
 //HOLA FRONTEND
+<<<<<<< HEAD
 //ESTO ES UN CAMBIO MIO
+=======
+>>>>>>> 4fe71bcca276621ab321496479a340ef276817a9
