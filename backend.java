@@ -1,3 +1,0 @@
-//HOLA BACKEND
-
-// ghtsrgaf
